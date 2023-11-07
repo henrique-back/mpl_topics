@@ -1,3 +1,14 @@
+# project files
+get data/config.py
+get data/configurations.ini
+NER/config.py
+NER/configurations.ini
+NER/maps/ocean_df/ocean_df.cpg
+NER/maps/ocean_df/ocean_df.dbf
+NER/maps/ocean_df/ocean_df.shp
+NER/maps/ocean_df/ocean_df.shx
+NER/alldata_processed.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
