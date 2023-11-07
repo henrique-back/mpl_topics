@@ -1,6 +1,6 @@
 # project files
-get data/config.py
-get data/configurations.ini
+get_data/config.py
+get_data/configurations.ini
 NER/config.py
 NER/configurations.ini
 NER/maps/ocean_df/ocean_df.cpg
