@@ -65,7 +65,7 @@ Most Recurrent Value,Merged Class,Basin
 ,,
 12,12,South Pacific
 ,,
-Sargassum,Sargassum,
+,,
 ,,
 12,12,South Pacific
 3,2,North Atlantic
@@ -99,7 +99,7 @@ Sargassum,Sargassum,
 9,8,North Pacific
 15,14,North Indian
 ,,
-11,10,Equatorial Pac
+13,12,South Pacific
 ,,
 9,8,North Pacific
 11,10,Equatorial Pac
@@ -241,7 +241,7 @@ Sargassum,Sargassum,
 ,,
 ,,
 ,,
-2,2,North Atlantic
+15,14,North Indian
 ,,
 3,2,North Atlantic
 22,22,Mediteranean
@@ -303,7 +303,7 @@ Sargassum,Sargassum,
 ,,
 ,,
 ,,
-YRE,YRE,
+9,8,North Pacific
 22,22,Mediteranean
 ,,
 ,,
@@ -456,7 +456,7 @@ YRE,YRE,
 9,8,North Pacific
 15,14,North Indian
 2,2,North Atlantic
-Subtropical,Subtropical,
+3,2,North Atlantic
 3,2,North Atlantic
 11,10,Equatorial Pac
 ,,
@@ -865,7 +865,7 @@ Subtropical,Subtropical,
 3,2,North Atlantic
 ,,
 11,10,Equatorial Pac
-2,2,North Atlantic
+15,14,North Indian
 ,,
 9,8,North Pacific
 ,,
@@ -1347,7 +1347,7 @@ Subtropical,Subtropical,
 9,8,North Pacific
 7,6,South Atlantic
 ,,
-Wohngebäuden,Wohngebäuden,
+,,
 ,,
 3,2,North Atlantic
 9,8,North Pacific
@@ -1370,7 +1370,7 @@ Wohngebäuden,Wohngebäuden,
 ,,
 3,2,North Atlantic
 ,,
-Anthropocene,Anthropocene,
+,,
 13,12,South Pacific
 ,,
 12,12,South Pacific
@@ -1379,7 +1379,7 @@ Anthropocene,Anthropocene,
 13,12,South Pacific
 ,,
 22,22,Mediteranean
-Basque-Aquitaine,Basque-Aquitaine,
+,,
 11,10,Equatorial Pac
 9,8,North Pacific
 ,,
@@ -1461,7 +1461,7 @@ Basque-Aquitaine,Basque-Aquitaine,
 11,10,Equatorial Pac
 ,,
 ,,
-Phinyocheep,Phinyocheep,
+,,
 15,14,North Indian
 5,4,Equatorial Atlant
 ,,
@@ -1776,7 +1776,7 @@ Phinyocheep,Phinyocheep,
 9,8,North Pacific
 ,,
 9,8,North Pacific
-Lvsi,Lvsi,
+,,
 ,,
 ,,
 9,8,North Pacific
@@ -1861,7 +1861,7 @@ Lvsi,Lvsi,
 2,2,North Atlantic
 ,,
 15,14,North Indian
-plastisphere,plastisphere,
+,,
 11,10,Equatorial Pac
 17,16,Equatorial Indian
 ,,
@@ -1959,7 +1959,7 @@ plastisphere,plastisphere,
 ,,
 ,,
 ,,
-Odaw,Odaw,
+5,4,Equatorial Atlant
 ,,
 21,21,Arctic
 ,,
@@ -2275,7 +2275,7 @@ Odaw,Odaw,
 21,21,Arctic
 3,2,North Atlantic
 9,8,North Pacific
-Anthropocene,Anthropocene,
+,,
 8,8,North Pacific
 ,,
 9,8,North Pacific
@@ -2455,7 +2455,7 @@ Anthropocene,Anthropocene,
 ,,
 5,4,Equatorial Atlant
 ,,
-plastisphere,plastisphere,
+25,25,Persian Gulf
 ,,
 ,,
 ,,
@@ -2680,7 +2680,7 @@ plastisphere,plastisphere,
 ,,
 ,,
 9,8,North Pacific
-Chellanam,Chellanam,
+17,16,Equatorial Indian
 ,,
 22,22,Mediteranean
 11,10,Equatorial Pac
@@ -2975,7 +2975,7 @@ Chellanam,Chellanam,
 ,,
 3,2,North Atlantic
 ,,
-Anthropocene,Anthropocene,
+,,
 ,,
 ,,
 ,,
@@ -3232,7 +3232,7 @@ Anthropocene,Anthropocene,
 7,6,South Atlantic
 21,21,Arctic
 21,21,Arctic
-Anthropocene,Anthropocene,
+,,
 ,,
 2,2,North Atlantic
 ,,
@@ -3301,7 +3301,7 @@ Anthropocene,Anthropocene,
 ,,
 9,8,North Pacific
 ,,
-2,2,North Atlantic
+15,14,North Indian
 9,8,North Pacific
 22,22,Mediteranean
 ,,
@@ -3869,8 +3869,8 @@ Anthropocene,Anthropocene,
 20,20,Antarctic
 ,,
 3,2,North Atlantic
-km2,km2,
-Anthropocene,Anthropocene,
+3,2,North Atlantic
+,,
 ,,
 11,10,Equatorial Pac
 26,26,Red Sea
@@ -3888,7 +3888,7 @@ Anthropocene,Anthropocene,
 11,10,Equatorial Pac
 ,,
 22,22,Mediteranean
-11,10,Equatorial Pac
+10,10,Equatorial Pac
 9,8,North Pacific
 ,,
 ,,
@@ -4075,7 +4075,7 @@ Anthropocene,Anthropocene,
 ,,
 ,,
 22,22,Mediteranean
-plastisphere,plastisphere,
+,,
 ,,
 ,,
 ,,
@@ -4336,7 +4336,7 @@ plastisphere,plastisphere,
 17,16,Equatorial Indian
 22,22,Mediteranean
 24,24,Baltic Sea
-plastisphere,plastisphere,
+,,
 ,,
 26,26,Red Sea
 3,2,North Atlantic
@@ -4442,7 +4442,7 @@ plastisphere,plastisphere,
 9,8,North Pacific
 9,8,North Pacific
 ,,
-Anthropocene,Anthropocene,
+,,
 ,,
 3,2,North Atlantic
 23,23,Black Sea
@@ -4711,7 +4711,7 @@ Anthropocene,Anthropocene,
 ,,
 ,,
 15,14,North Indian
-Plastisphere,Plastisphere,
+,,
 ,,
 3,2,North Atlantic
 3,2,North Atlantic
@@ -5105,7 +5105,7 @@ Plastisphere,Plastisphere,
 9,8,North Pacific
 3,2,North Atlantic
 3,2,North Atlantic
-2,2,North Atlantic
+15,14,North Indian
 22,22,Mediteranean
 9,8,North Pacific
 ,,
@@ -5260,7 +5260,7 @@ Plastisphere,Plastisphere,
 ,,
 ,,
 11,10,Equatorial Pac
-Rhine-Meuse,Rhine-Meuse,
+3,2,North Atlantic
 ,,
 9,8,North Pacific
 2,2,North Atlantic
@@ -5475,7 +5475,7 @@ Rhine-Meuse,Rhine-Meuse,
 9,8,North Pacific
 11,10,Equatorial Pac
 ,,
-CLME,CLME,
+9,8,North Pacific
 3,2,North Atlantic
 17,16,Equatorial Indian
 ,,
@@ -5506,7 +5506,7 @@ CLME,CLME,
 3,2,North Atlantic
 ,,
 24,24,Baltic Sea
-plastisphere,plastisphere,
+,,
 ,,
 3,2,North Atlantic
 ,,
@@ -5691,7 +5691,7 @@ plastisphere,plastisphere,
 ,,
 ,,
 ,,
-Decapoda,Decapoda,
+,,
 22,22,Mediteranean
 3,2,North Atlantic
 3,2,North Atlantic
@@ -5765,7 +5765,7 @@ Decapoda,Decapoda,
 26,26,Red Sea
 11,10,Equatorial Pac
 15,14,North Indian
-plastisphere,plastisphere,
+22,22,Mediteranean
 11,10,Equatorial Pac
 ,,
 3,2,North Atlantic
@@ -5995,7 +5995,7 @@ plastisphere,plastisphere,
 24,24,Baltic Sea
 ,,
 5,4,Equatorial Atlant
-Anthropocene,Anthropocene,
+,,
 17,16,Equatorial Indian
 9,8,North Pacific
 ,,
@@ -6049,7 +6049,7 @@ Anthropocene,Anthropocene,
 ,,
 22,22,Mediteranean
 17,16,Equatorial Indian
-Anthropocene,Anthropocene,
+11,10,Equatorial Pac
 ,,
 ,,
 22,22,Mediteranean
@@ -6081,7 +6081,7 @@ Anthropocene,Anthropocene,
 9,8,North Pacific
 9,8,North Pacific
 9,8,North Pacific
-Plastisphere,Plastisphere,
+,,
 26,26,Red Sea
 3,2,North Atlantic
 ,,
@@ -6295,7 +6295,7 @@ Plastisphere,Plastisphere,
 15,14,North Indian
 ,,
 9,8,North Pacific
-NE-Atlantic,NE-Atlantic,
+,,
 9,8,North Pacific
 ,,
 ,,
@@ -6382,7 +6382,7 @@ NE-Atlantic,NE-Atlantic,
 ,,
 ,,
 11,10,Equatorial Pac
-plastisphere,plastisphere,
+3,2,North Atlantic
 ,,
 11,10,Equatorial Pac
 ,,
@@ -6652,7 +6652,7 @@ plastisphere,plastisphere,
 ,,
 19,18,South Indian
 ,,
-Lagrangian,Lagrangian,
+3,2,North Atlantic
 22,22,Mediteranean
 ,,
 21,21,Arctic
@@ -6892,7 +6892,7 @@ Lagrangian,Lagrangian,
 7,6,South Atlantic
 1,2,North Atlantic
 22,22,Mediteranean
-2,2,North Atlantic
+15,14,North Indian
 9,8,North Pacific
 ,,
 8,8,North Pacific
@@ -7263,7 +7263,7 @@ Lagrangian,Lagrangian,
 ,,
 ,,
 21,21,Arctic
-Plastisphere,Plastisphere,
+,,
 21,21,Arctic
 3,2,North Atlantic
 21,21,Arctic
@@ -7344,7 +7344,7 @@ Plastisphere,Plastisphere,
 3,2,North Atlantic
 9,8,North Pacific
 21,21,Arctic
-Tonekabon-Nowshahr,Tonekabon-Nowshahr,
+3,2,North Atlantic
 3,2,North Atlantic
 14,14,North Indian
 ,,
@@ -7541,7 +7541,7 @@ Tonekabon-Nowshahr,Tonekabon-Nowshahr,
 ,,
 3,2,North Atlantic
 5,4,Equatorial Atlant
-plastisphere,plastisphere,
+11,10,Equatorial Pac
 ,,
 ,,
 3,2,North Atlantic
@@ -7864,7 +7864,7 @@ plastisphere,plastisphere,
 21,21,Arctic
 ,,
 ,,
-plastisphere,plastisphere,
+,,
 ,,
 ,,
 ,,
@@ -7938,7 +7938,7 @@ plastisphere,plastisphere,
 ,,
 ,,
 5,4,Equatorial Atlant
-Anthropocene,Anthropocene,
+,,
 ,,
 ,,
 ,,
@@ -8238,7 +8238,7 @@ Anthropocene,Anthropocene,
 9,8,North Pacific
 3,2,North Atlantic
 3,2,North Atlantic
-Plastisphere,Plastisphere,
+,,
 16,16,Equatorial Indian
 9,8,North Pacific
 9,8,North Pacific
@@ -8493,7 +8493,7 @@ Plastisphere,Plastisphere,
 ,,
 17,16,Equatorial Indian
 ,,
-NASG,NASG,
+5,4,Equatorial Atlant
 9,8,North Pacific
 ,,
 ,,
@@ -8559,7 +8559,7 @@ NASG,NASG,
 ,,
 ,,
 17,16,Equatorial Indian
-Plastisphere,Plastisphere,
+,,
 9,8,North Pacific
 ,,
 7,6,South Atlantic
@@ -8673,7 +8673,7 @@ Plastisphere,Plastisphere,
 15,14,North Indian
 ,,
 11,10,Equatorial Pac
-NASG,NASG,
+2,2,North Atlantic
 ,,
 9,8,North Pacific
 3,2,North Atlantic
@@ -9011,10 +9011,10 @@ NASG,NASG,
 ,,
 15,14,North Indian
 ,,
-Plastisphere,Plastisphere,
 ,,
 ,,
-Plastisphere,Plastisphere,
+,,
+,,
 22,22,Mediteranean
 ,,
 12,12,South Pacific
@@ -9050,7 +9050,7 @@ Plastisphere,Plastisphere,
 9,8,North Pacific
 9,8,North Pacific
 15,14,North Indian
-Plastisphere,Plastisphere,
+9,8,North Pacific
 3,2,North Atlantic
 3,2,North Atlantic
 22,22,Mediteranean
@@ -9143,7 +9143,7 @@ Plastisphere,Plastisphere,
 11,10,Equatorial Pac
 ,,
 ,,
-Plastisphere,Plastisphere,
+,,
 ,,
 22,22,Mediteranean
 9,8,North Pacific
@@ -9713,7 +9713,7 @@ Plastisphere,Plastisphere,
 ,,
 ,,
 2,2,North Atlantic
-Khor-e-Yekshabeh,Khor-e-Yekshabeh,
+15,14,North Indian
 3,2,North Atlantic
 ,,
 15,14,North Indian
@@ -9854,7 +9854,7 @@ Khor-e-Yekshabeh,Khor-e-Yekshabeh,
 ,,
 3,2,North Atlantic
 9,8,North Pacific
-Sfax-Tunisia,Sfax-Tunisia,
+3,2,North Atlantic
 9,8,North Pacific
 ,,
 ,,
@@ -10371,7 +10371,7 @@ Sfax-Tunisia,Sfax-Tunisia,
 ,,
 15,14,North Indian
 ,,
-Plastisphere,Plastisphere,
+,,
 26,26,Red Sea
 22,22,Mediteranean
 ,,
@@ -11235,7 +11235,7 @@ Plastisphere,Plastisphere,
 ,,
 22,22,Mediteranean
 22,22,Mediteranean
-Plastisphere,Plastisphere,
+,,
 3,2,North Atlantic
 1,2,North Atlantic
 9,8,North Pacific
@@ -11666,7 +11666,7 @@ Plastisphere,Plastisphere,
 10,10,Equatorial Pac
 22,22,Mediteranean
 9,8,North Pacific
-Rhine-Ruhr,Rhine-Ruhr,
+3,2,North Atlantic
 ,,
 ,,
 15,14,North Indian
@@ -11924,7 +11924,7 @@ Rhine-Ruhr,Rhine-Ruhr,
 3,2,North Atlantic
 10,10,Equatorial Pac
 3,2,North Atlantic
-Plastisphere,Plastisphere,
+2,2,North Atlantic
 13,12,South Pacific
 12,12,South Pacific
 5,4,Equatorial Atlant
@@ -12250,7 +12250,7 @@ Plastisphere,Plastisphere,
 ,,
 15,14,North Indian
 5,4,Equatorial Atlant
-SE-Pacific,SE-Pacific,
+,,
 8,8,North Pacific
 22,22,Mediteranean
 ,,

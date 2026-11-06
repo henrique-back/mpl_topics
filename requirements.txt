@@ -1,0 +1,44 @@
+# Requires Python >= 3.12. Tested with Python 3.12 on macOS (Apple Silicon); resolves on
+# Windows (x86-64), Linux and macOS 14+ (Apple Silicon; torch has no Intel-Mac wheels).
+# Install with: pip install -r requirements.txt
+#
+# pandas is kept below 3.0 and matplotlib below 3.9 because the notebooks use APIs removed
+# in later releases (DataFrame.applymap, matplotlib.cm.get_cmap, groupby().apply semantics).
+
+# Core
+numpy==2.5.4
+pandas==2.3.3
+scipy==1.18.1
+scikit-learn==1.9.1
+statsmodels==0.15.0
+tqdm==4.70.1
+requests==2.34.2
+
+# Plotting
+matplotlib==3.8.4
+plotly==7.1.0
+
+# Topic modelling
+torch==2.15.0
+sentence-transformers==6.2.0
+bertopic==0.17.4
+umap-learn==0.5.12
+hdbscan==0.8.44
+
+# Named-entity recognition
+spacy==3.8.18
+spacy-curated-transformers==0.3.1
+en_core_web_trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.8.0/en_core_web_trf-3.8.0-py3-none-any.whl
+
+# Maps
+geopandas==1.2.0
+shapely==2.2.0
+mapclassify==2.11.0
+
+# Notebooks
+jupyter==1.1.1
+ipykernel==7.4.0
+nbformat==5.11.1
+
+# Optional GPU acceleration for hyperparameter_tuning.ipynb (Linux + NVIDIA only, install separately):
+# RAPIDS cuml / cudf / cupy - see https://docs.rapids.ai/install

@@ -1,0 +1,4 @@
+# Copy this file to configurations.ini (ignored by git) and fill in your own values.
+[geonames]
+# Free GeoNames account: https://www.geonames.org/login (enable the free web services in your account page)
+username = your_geonames_username
